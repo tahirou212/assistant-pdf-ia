@@ -262,7 +262,7 @@ PDF uploadé
 ## 👤 Auteur
 
 **Tahirou** — Étudiant SupMTI  
-Module : Modélisation Avancée des Logiciels  
+Module : prompt engineering 
 Année : 2025-2026
 
 ---
